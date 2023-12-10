@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-starter",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xiaoyuanda <m17304034787@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
