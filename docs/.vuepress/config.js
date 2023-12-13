@@ -18,6 +18,8 @@ export default {
         selectLanguageName: '简体中文',
       },
     },
+    logo: '/images/yuanda.png',
+    title: 'Yuanda',
     repo: 'https://gitlab.com/foo/bar',
     repoLabel: 'github',
     selectLanguageText: '语言',

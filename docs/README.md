@@ -1,6 +1,7 @@
 ---
 home: true
 heroHeight: 100
+title: 'Yuanda'
 heroImage: /images/yuanda.png
 heroText: xiaoYuanda
 tagline: 致力于构建人类高效的学习系统
@@ -15,9 +16,10 @@ footer: MIT Licensed | Copyright © 2023-present XiaoYuanda
 
 actions:
   - text: 快速使用
-    link: /guide/introduction.html
+    link: /zh/guide/introduction.html
     type: primary
   - text: 了解功能
     link: /guide/
     type: secondary
 ---
+!['wenzi'](/images/img.png "相对路径演示")
